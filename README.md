@@ -1,5 +1,5 @@
 # opencv-grayscale-conversion
-opencv-grayscale-conversion
+### Android app for converting colored images from camera feed to grayscale images using OpenCV
 
 ## versions used:
 ### OpenCV: 4.7.0 
